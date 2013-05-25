@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Anonymous Functions"
-category: 
-tags: []
+category: tech
+tags: [iOS, programming]
 ---
 {% include JB/setup %}
 
